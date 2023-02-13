@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "73c1110f-3635-4505-97ab-a72618fbdbdb",
+      "title": "Estudar NodeJS",
+      "description": "Estudar NodeJS, para melhorar o conhecimento de backend",
+      "completed_at": null,
+      "created_at": "2023-02-13T18:27:20.835Z",
+      "updated_at": "2023-02-13T18:27:20.835Z"
+    },
+    {
+      "id": "55bcc3b9-d347-4f86-95e7-9bb7c83550b4",
+      "title": "Estudar Ingles",
+      "description": "Estudar Ingles no Duolingo, pelo menos 15 min",
+      "completed_at": null,
+      "created_at": "2023-02-13T18:27:43.093Z",
+      "updated_at": "2023-02-13T18:27:43.093Z"
+    },
+    {
+      "id": "7dc4bc27-736d-4fad-a4a3-c0431b762daf",
+      "title": "Estudar Ingles",
+      "description": "Estudar Ingles no Duolingo, pelo menos 15 min",
+      "completed_at": null,
+      "created_at": "2023-02-13T18:56:40.233Z",
+      "updated_at": "2023-02-13T18:56:40.233Z"
+    }
+  ]
+}

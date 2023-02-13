@@ -2,7 +2,8 @@
   "name": "challenge-ignite-nodejs-01-fundamentos-nodejs",
   "version": "1.0.0",
   "description": "Desafio 01 Trilha NodeJS - Ignite - 2023",
-  "main": "index.js",
+  "type": "module",
+  "main": "server.js",
   "scripts": {
     "dev": "node --watch src/server.js"
   },
