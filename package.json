@@ -1,0 +1,15 @@
+{
+  "name": "challenge-ignite-nodejs-01-fundamentos-nodejs",
+  "version": "1.0.0",
+  "description": "Desafio 01 Trilha NodeJS - Ignite - 2023",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "JeffyMesquita",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
+}
